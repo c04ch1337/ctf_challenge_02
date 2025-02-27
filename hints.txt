@@ -1,0 +1,12 @@
+# Hints for CTF Challenge 2
+
+1. **Flag 1**: Exploit a broken authentication mechanism in the login API.
+2. **Flag 2**: Find a sensitive file exposed in the web root directory.
+3. **Flag 3**: Exploit an insecure direct object reference (IDOR) in the profile page.
+4. **Flag 4**: Decode a JWT token to find the flag.
+5. **Flag 5**: Exploit a server-side request forgery (SSRF) vulnerability in the API.
+6. **Flag 6**: Crack a weak API key.
+7. **Flag 7**: Exploit a misconfigured CORS policy.
+8. **Flag 8**: Find a flag hidden in the response headers.
+9. **Flag 9**: Exploit a command injection vulnerability in the user profile update feature.
+10. **Flag 10**: Decode a base64-encoded string in the page source.
