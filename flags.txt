@@ -1,0 +1,12 @@
+CTF Challenge 2: The Shadow Web Portal
+Flag	Hint
+CTF{broken_auth}	Exploit a broken authentication mechanism in the login API.
+CTF{exposed_file}	Find a sensitive file exposed in the web root directory.
+CTF{idor_vulnerability}	Exploit an insecure direct object reference (IDOR) in the profile page.
+CTF{jwt_token}	Decode a JWT token to find the flag.
+CTF{ssrf_vulnerability}	Exploit a server-side request forgery (SSRF) vulnerability in the API.
+CTF{weak_api_key}	Crack a weak API key.
+CTF{misconfigured_cors}	Exploit a misconfigured CORS policy.
+CTF{response_header}	Find a flag hidden in the response headers.
+CTF{command_injection}	Exploit a command injection vulnerability in the user profile update feature.
+CTF{base64_encoded}	Decode a base64-encoded string in the page source.
